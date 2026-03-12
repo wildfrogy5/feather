@@ -1,3 +1,4 @@
+# WARNING: this project is available under the AGPL VERSION 3 license, if you have aquired this from ANYWHERE besides https://github.com/wildfrogy5/feather you've been scammed/have a fake
 # NOTICE: despite what the AGPL Version 3 license states, you are NOT PERMITTED to make this your own project in any case, you may create a github fork, but regular new projects are FORBIDDEN
 import tkinter as tk
 from tkinter.scrolledtext import ScrolledText
