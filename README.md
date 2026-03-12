@@ -1,6 +1,7 @@
 hi there!! thanks for looking into feather! this is a completely vibecoded project, and most changes are allowed, just make sure you fork the project!
 
-#building
+# building
+
 to build it is actually quite simple,
 requirements are : tkinter and requests
 
