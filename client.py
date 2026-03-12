@@ -1,3 +1,4 @@
+# NOTICE: despite what the AGPL Version 3 license states, you are NOT PERMITTED to make this your own project in any case, you may create a github fork, but regular new projects are FORBIDDEN
 import tkinter as tk
 from tkinter.scrolledtext import ScrolledText
 from tkinter import messagebox, simpledialog
